@@ -1,0 +1,410 @@
+.wrapper{
+    width: 1200px;
+    margin: 0 auto;
+    /* font-family: "dancing script",cursive; */
+}
+.first{
+    background: url(../image/banner.jpg) no-repeat left 1px;
+    width: 100%;
+    height: 400px;
+}
+.logo{
+    width   :10%;
+    float: left;
+    margin-top: 2px; 
+}
+.c{
+    clear: both;
+}
+.menu{
+    width: 80%;
+    float:  right;
+    margin-top: 2px;
+}
+
+nav{
+
+    height: 40px;
+    line-height: 40px;
+    width: 100%;
+}
+nav ul{
+    margin: 0 0 0;
+    padding: 0 20px;
+}
+nav ul li{
+   list-style: none;
+    float: left;
+    margin-right: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font-family: arial;
+    font-family: "Open Sans", sans-serif;
+
+    display: block;
+    font-weight: bold;
+    padding: 0 10px;
+}
+nav ul li a:hover{
+    background: #ffffff;
+}
+
+.welcome{
+    margin: 5px 0;
+    padding: 10px;
+}
+.welcome h1{
+    font-family: 'open sans', sans-serif;
+    line-height: 50px;
+    width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+    color: blue !important;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase
+}
+.wr{
+    width: 100%;
+}
+.wr p{
+    font-family: arial;
+    font-size: 18px;
+    text-align: justify;
+    color: black! important;
+    line-height: 175%;
+    margin: 20px;
+}
+.service{
+    width: 100%;
+   margin: 20px 0;
+    padding: 10px;
+}
+.service img{
+    padding: 10px;
+    width: 45%;
+    height: 400px;
+    float: left;
+}
+.ap{
+	float:right;
+	width:50%;
+	margin-left: 30px;
+}
+.ap h2{
+	font-family: 'Open Sans', sans-serif;
+	line-height:50px;
+	width:100%;
+	margin:20px auto;
+	padding:20px;
+	color: #1F2F68!important;
+	font-size:40px;
+	font-weight:bold;
+	text-align:center;
+	text-transform:uppercase;
+}
+.ap p{
+    font-family:arial;
+	font-size:18px;
+	text-align:justify;
+	color:#000 !important;
+	line-height:175%;
+	margin:20px;
+}
+.ap a{
+	background:#1B4F72;
+	width:200px;
+	height:40px;
+	line-height:40px;
+	border:2px solid #000;
+	border-radius:20px;
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	padding:0px;
+	margin:30px;
+	font-family: arial;
+	display:block;
+	text-decoration:none;
+	text-transform:capitalize;
+}
+.c{
+	clear:both;
+	}
+
+
+.di{
+	width: 100%;
+	margin: 20px 0;
+	padding: 10px;
+}
+.di img{
+	padding:10px;
+	width:45%;
+	height:400px;
+	float:right;
+}
+.dp{
+	float:left;
+	width:50%;
+	margin-left: 30px;
+
+}
+.dp h2{
+	font-family: 'Open Sans', sans-serif;
+	line-height:50px;
+	width:100%;
+	margin:20px auto;
+	padding:20px;
+	color: #1F2F68!important;
+	font-size:40px;
+	font-weight:bold;
+	text-align:center;
+	text-transform:uppercase;
+}
+.dp p{
+    font-family:arial;
+	font-size:18px;
+	text-align:justify;
+	color:#000 !important;
+	line-height:175%;
+	margin:20px 5px;
+}
+.dp a{
+	background:#1B4F72;
+	width:200px;
+	height:40px;
+	line-height:40px;
+	border:2px solid #000;
+	border-radius:20px;
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	padding:0px;
+	margin:20px;
+	font-family: arial;
+	display:block;
+	text-decoration:none;
+	text-transform:capitalize;
+}
+.c{
+	clear:both;
+	}
+
+
+.spai{
+	width: 100%;
+	margin: 20px 0;
+	padding: 10px;
+}
+.spai img{
+	padding:10px;
+	width:45%;
+	height:400px;
+	float:left;
+}
+.spap{
+	float:right;
+	width:50%;
+	margin-left: 30px;
+	
+}
+.spap h2{
+	font-family: 'Open Sans', sans-serif;
+	line-height:50px;
+	width:100%;
+	margin:20px auto;
+	padding:20px;
+	color: #1F2F68!important;
+	font-size:40px;
+	font-weight:bold;
+	text-align:center;
+	text-transform:uppercase;
+}
+.spap p{
+    font-family:arial;
+	font-size:18px;
+	text-align:justify;
+	color:#000 !important;
+	line-height:175%;
+	margin:20px;
+}
+.spap a{
+	background:#1B4F72;
+	width:200px;
+	height:40px;
+	line-height:40px;
+	border:2px solid #000;
+	border-radius:20px;
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	padding:0px;
+	margin:20px;
+	font-family: arial;
+	display:block;
+	text-decoration:none;
+	text-transform:capitalize;
+}
+.c{
+	clear:both;
+	}
+
+.acti{
+	width: 100%;
+	margin: 20px 0;
+	padding: 10px;
+}
+.acti img{
+	padding:10px;
+	width:45%;
+	height:400px;
+	float:right;
+}
+.actp{
+	float:left;
+	width:50%;
+	margin-left: 30px;
+
+}
+.actp h2{
+	font-family: 'Open Sans', sans-serif;
+	line-height:50px;
+	width:100%;
+	margin:20px auto;
+	padding:20px;
+	color: #1F2F68!important;
+	font-size:40px;
+	font-weight:bold;
+	text-align:center;
+	text-transform:uppercase;
+}
+.actp p{
+    font-family:arial;
+	font-size:18px;
+	text-align:justify;
+	color:#000 !important;
+	line-height:175%;
+	margin:20px;
+}
+.actp a{
+	background:#1B4F72;
+	width:200px;
+	height:40px;
+	line-height:40px;
+	border:2px solid #000;
+	border-radius:20px;
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	padding:0px;
+	margin:20px;
+	font-family: arial;
+	display:block;
+	text-decoration:none;
+	text-transform:capitalize;
+}
+.c{
+	clear:both;
+	}
+
+	
+footer{
+	background:#2471A3;
+	padding:20px;
+	width: 92%;
+	height: 300px;
+	margin-top:20px ;
+	margin-left: 30px;
+}
+
+.box{
+	float:left;
+	width:30%;
+	margin-right:18px;
+	padding:10px;
+	min-height:200px;
+}
+.box h3{
+	font-family: 'Dancing Script', cursive;
+	margin-bottom:15px;
+	color:#EAEDED !important;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	text-transform:uppercase;
+}
+
+.box ul li{
+	
+	font-family:arial;
+	margin-bottom:10px;
+	color:#323730!important;
+	
+}
+.box ul li a{
+	text-decoration:none;
+	font-family:arial;
+	margin:20px;
+	color:#212F3C!important;
+	font-size:16px;
+	font-weight: bold;
+}
+.box1 form{
+
+	
+	float: right;
+	padding:20px;
+	margin:20px 20px 30px 20px;
+
+}
+input{
+	width:300px;
+	height: 30px;
+	line-height:30px;
+	padding:0 5px;
+	margin-bottom:10px;
+	background:#fff;
+	color:#333;
+	font-size:14px;
+	font-family: 'Open Sans', sans-serif;
+	
+	}
+
+	input[type="submit"]{
+	width:100px;
+	height:40px;
+	line-height:40px;
+	padding:0 5px;
+	margin-bottom:10px;
+	background:#85C1E9;
+	color:#141614 !important;
+	font-weight:bold;
+	font-size:18px;
+	text-align:center;
+	font-family: 'Open Sans', sans-serif;
+	cursor:pointer;
+}
+input[type="submit"]:hover{
+	background:#4E1AA9;
+}
+.c{
+	clear:both;
+	} 
+
+
+p{
+	color: none !important;
+	font-size: 20px;
+	text-align:center;
+	width: 100%;
+}
